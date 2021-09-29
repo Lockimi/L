@@ -1,5 +1,4 @@
-# L
-1st Pr
+
 #include <iostream>
 using namespace std;
 
